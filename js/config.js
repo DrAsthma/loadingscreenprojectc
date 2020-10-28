@@ -107,9 +107,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Życzymy miłej gry",
 "Baw się dobrze!",
-"W chwili rozpaczy, nie ufaj tym którym nie powinieneś."
-"Najsilniejszą bronią żołnierza jest jego odwaga."
-"Asthma życzy miłych łowów"
+"W chwili rozpaczy, nie ufaj tym którym nie powinieneś.",
+"Najsilniejszą bronią żołnierza jest jego odwaga.",
+"Asthma życzy miłych łowów",
 "Bagiety patrzą."
 ];
 
